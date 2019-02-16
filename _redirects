@@ -1,4 +1,4 @@
 # Redirect users in Switzerland to /ch
-/  /ch   302  Country=ch
+/  https://ch.somewhere.com/   302  Country=ch
 # Redirect users in USA to /us
 /  /us   302  Country=us
