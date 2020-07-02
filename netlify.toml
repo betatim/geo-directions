@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://my.scribital.com/ph/oauth2/login?via=:splat"
+  status = 302
