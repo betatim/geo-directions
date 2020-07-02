@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/*"
-  to = "https://my.scribital.com/ph/oauth2/login?via=:splat"
+  from = "/kpmg.ch"
+  to = "https://my.scribital.com/ph/oauth2/login?via=kpmgch"
   status = 302
