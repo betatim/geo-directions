@@ -1,5 +1,0 @@
-# Redirect users in Switzerland
-/  https://ch.somewhere.example.com/   302  Country=ch
-# Redirect users in USA to /us
-/  /us   302  Country=us
-/api/*  https://ph.my.scribital.com/phoebe/v1/:splat  200
